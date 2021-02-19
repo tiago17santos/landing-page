@@ -23,7 +23,7 @@
     height: 6.5rem;
 }
 
-body.full-width {
+.full-width {
     width: 100%;
     flex: 1 1 100%;
 }
